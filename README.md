@@ -1,4 +1,4 @@
-# 🎮 ¡Hola! Soy [Tu Nombre] 
+# 🎮 ¡Hola! Soy [PIRLO] 
 <div align="center">
   
 <!-- Header elegante y limpio -->
