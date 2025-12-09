@@ -36,7 +36,7 @@
 -  Amante de la generación procedural y AI design  
 -  Explorando integración de IA + Game Art  
 - Compartiendo experiencias, recursos y consejos  
-- <b>[Portfolio Web](#) | [LinkedIn](#) | [Twitter](#)</b>
+- <b>[Portfolio Web](#) | [LinkedIn](https://www.linkedin.com/in/elmer-kevin-vela-gutierrez-17002b306/) | [Facebook](https://www.facebook.com/elmer.vela.50)</b>
 
 </td>
 </tr>
