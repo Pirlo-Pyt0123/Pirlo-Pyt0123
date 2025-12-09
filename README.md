@@ -6,12 +6,12 @@
 
 <!-- Animación de typing -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=22&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=650&lines=🎮+Unreal+Engine+Expert;🤖+ComfyUI+Specialist;⚡+C%2B%2B+Master+%7C+AI+Design+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=22&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=650&lines=+Unreal+Engine+Expert;+ComfyUI+Specialist; +C%2B%2B+Master+%7C+AI+Design+Lover" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🎯 Sobre Mí
+##  Sobre Mí
 
 <div align="center">
   <b>Game Developer & AI Enthusiast | Unreal Engine 4 | C++ | Blueprints | Generative Art</b><br>
@@ -29,19 +29,19 @@
 <tr>
 <td valign="top" width="50%">
 
-🏙️ <b>Sucre, Bolivia</b>  
-🎮 <b>Game Developer Unreal Engine 4</b>  
-👨‍💻 <b>Especialista en C++/Blueprints, IA y ComfyUI</b>  
-🎨 <b>Amante del arte generado por IA</b>
+ <b>Sucre, Bolivia</b>  
+ <b>Game Developer Unreal Engine 4</b>  
+<b>Especialista en C++/Blueprints, IA y ComfyUI</b>  
+ <b>Amante del arte generado por IA</b>
 
 </td>
 <td valign="top" width="50%">
 
-- 🔥 Desarrollando el próximo hit gaming indie  
-- 🚀 Amante de la generación procedural y AI design  
-- 🧠 Explorando integración de IA + Game Art  
-- 🕹️ Compartiendo experiencias, recursos y consejos  
-- 🌐 <b>[Portfolio Web](#) | [LinkedIn](#) | [Twitter](#)</b>
+-  Desarrollando el próximo hit gaming indie  
+-  Amante de la generación procedural y AI design  
+-  Explorando integración de IA + Game Art  
+- Compartiendo experiencias, recursos y consejos  
+- <b>[Portfolio Web](#) | [LinkedIn](#) | [Twitter](#)</b>
 
 </td>
 </tr>
@@ -49,10 +49,10 @@
 
 ---
 
-## 🏆 Portfolio de Proyectos
+##  Portfolio de Proyectos
 
 <div align="center">
-  <img width="100%" height="80" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15,20&height=80&section=header&text=🏆%20MIS%20CREACIONES%20🏆&fontSize=24&fontColor=fff"/>
+  <img width="100%" height="80" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15,20&height=80&section=header&text=%20MIS%20CREACIONES%20&fontSize=24&fontColor=fff"/>
 </div>
 
 | Proyecto                                  | Descripción                                              | Tecnologías                                                   |
@@ -63,7 +63,7 @@
 
 ---
 
-## 👾 Stats & Visual Widgets
+##  Stats & Visual Widgets
 
 <div align="center">
   <!-- Snake Commit Contributions -->
@@ -81,7 +81,7 @@
 
 ---
 
-## 📫 Contacto
+##  Contacto
 
 - ✉️ [elmerve77@gmail.com](mailto:elmerve77@gmail.com)
 
