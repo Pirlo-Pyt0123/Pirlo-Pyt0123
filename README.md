@@ -4,11 +4,6 @@
   <br>
 </div>
 
-<!-- Animación de typing -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=22&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=650&lines=+Unreal+Engine+Expert;+ComfyUI+Specialist; +C%2B%2B+Master+%7C+AI+Design+Lover" alt="Typing SVG" />
-</div>
-
 ---
 
 ##  Sobre Mí
@@ -51,9 +46,7 @@
 
 ##  Portfolio de Proyectos
 
-<div align="center">
-  <img width="100%" height="80" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15,20&height=80&section=header&text=%20MIS%20CREACIONES%20&fontSize=24&fontColor=fff"/>
-</div>
+
 
 | Proyecto                                  | Descripción                                              | Tecnologías                                                   |
 |:------------------------------------------ |:-------------------------------------------------------- |:------------------------------------------------------------- |
@@ -66,12 +59,9 @@
 ##  Stats & Visual Widgets
 
 <div align="center">
-  <!-- Snake Commit Contributions -->
-  <img src="https://github.com/Pirlo-Pyt0123/Pirlo-Pyt0123/blob/output/github-contribution-grid-snake.svg" alt="snake gif" width="780" />
 
-  <!-- Lenguajes principales -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pirlo-Pyt0123&langs_count=7&layout=compact&theme=gruvbox" alt="Top Languages" height="130"/>
 
+ 
   <!-- Detalles de perfil -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pirlo-Pyt0123&theme=github_dark"/>
 
