@@ -1,6 +1,6 @@
 <!-- Encabezado visual impactante -->
 <div align="center">
-  <img width="100%" height="260" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=250&section=header&text=Game%20Developer%20%7C%20AI%20Creator&fontSize=40&fontColor=fff&fontAlignY=38"/>
+  <img width="100%" height="260" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=250&section=header&text=Softaware%20Developer%20%7C%20AI%20Creator&fontSize=40&fontColor=fff&fontAlignY=38"/>
   <br>
 </div>
 
