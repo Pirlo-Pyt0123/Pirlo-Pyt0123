@@ -1,6 +1,6 @@
 <!-- Encabezado visual impactante -->
 <div align="center">
-  <img width="100%" height="260" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=250&section=header&text=Softaware%20Developer%20%7C%20AI%20Creator&fontSize=40&fontColor=fff&fontAlignY=38"/>
+  <img width="100%" height="260" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=250&section=header&text=Software%20Developer%20%7C%20AI%20Creator&fontSize=40&fontColor=fff&fontAlignY=38"/>
   <br>
 </div>
 
@@ -9,7 +9,7 @@
 ##  Sobre Mí
 
 <div align="center">
-  <b>Game Developer & AI Enthusiast | Unreal Engine 4 | C++ | Blueprints | Generative Art</b><br>
+  <b>Software Developer & AI Enthusiast | Unreal Engine 4 | C++ | Blueprints | Generative Art</b><br>
   <img src="https://img.shields.io/badge/Unreal%20Engine-4-blue?logo=unrealengine">
   <img src="https://img.shields.io/badge/C++-blue?logo=cplusplus">
   <img src="https://img.shields.io/badge/Blueprints-lightblue">
