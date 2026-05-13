@@ -48,13 +48,6 @@
 
 
 
-| Proyecto                                  | Descripción                                              | Tecnologías                                                   |
-|:------------------------------------------ |:-------------------------------------------------------- |:------------------------------------------------------------- |
-| ![PixelArtRogue](https://github.com/user-attachments/assets/04f9df61-4d98-4f35-8be8-8030a129ef05)        | Plataforma roguelike con mapas generados por IA           | Unreal Engine 4, C++, Blueprints, ComfyUI, Stable Diffusion   |
-| ![ForestUE](https://github.com/user-attachments/assets/ce3bc507-1678-4925-86ed-7077015391de)            | Bosque 3D hiperrealista (Megascans & UE Lighting)         | UE4, Megascans, Blueprints, Procedural                       |
-| ![GifDev](https://github.com/user-attachments/assets/5c5d1cd4-8528-4d55-86fb-02df7df622b3)              | Workflow de desarrollo visual con IA y automatización     | Python, ComfyUI, UE4, Generative Art                         |
-
----
 
 ##  Stats & Visual Widgets
 
